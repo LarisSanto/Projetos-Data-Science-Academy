@@ -6,11 +6,15 @@
 
 <h1 align="center">📊 Projetos Microsoft Power BI para Business Intelligence e Ciência de Dados / Data Science Academy </h1>
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi" />
   <img src="https://img.shields.io/badge/R%20Language-Stats%20&%20Anomaly%20Detection-blue?style=for-the-badge&logo=r" />
   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-green?style=for-the-badge" />
 </p>
+
+
 
 <p align="center">
   <i>Projetos desenvolvidos no curso da Data Science Academy, utilizando Power BI para análises financeiras, comerciais, industriais e muito mais.</i>
@@ -53,25 +57,25 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 > Dashboard comercial com narrativa inteligente.  
 📄 [`Visualizar PDF`](./MINI%20PROJETO%2002%20FINALIZADO.pdf)
 
----
+
 
 ### 🔹 Mini Projeto 06 - Mercado de Ações
 > Análise de ações com fechamento, volume e tendências.  
 📄 [`Visualizar PDF`](./MINI%20PROJ%2006%20COMPLETO.pdf)
 
----
+
 
 ### 🔹 Lab 08 - Detecção de Anomalias com R
 > Uso da linguagem R para encontrar anomalias financeiras.  
 📄 [`Visualizar PDF`](./LAB%2008%20COMPLETO.pdf)
 
----
+
 
 ### 🔹 Lab 09 - Previsão de Produção Industrial
 > Aplicação de IA para previsão de unidades produzidas.  
 📄 [`Visualizar PDF`](./LAB%2009%20COMPLETO.pdf)
 
----
+
 
 ## 🧰 Tecnologias Utilizadas
 
@@ -86,7 +90,7 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
-✉️ larissa.email@exemplo.com
+
 
 
 
