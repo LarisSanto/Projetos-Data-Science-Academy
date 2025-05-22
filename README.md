@@ -122,8 +122,3 @@ http://www.linkedin.com/in/larissa-dos-santos-silva-11a285332
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
 
----
-
-<p align="center">
-  Feito com ❤️ por <b>Larissa</b> usando dados reais e curiosidade sem fim.
-</p>
