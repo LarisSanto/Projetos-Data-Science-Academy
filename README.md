@@ -33,9 +33,10 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 
 ### 🔹 Lab 01 - Dashboard de Vendas Globais
 > Análise de vendas por país, categoria e prioridade.  
-📄 [`Visualizar PDF`](./FINALIZAÇÃO%20LAB%2001.pdf)
+📄 [`Visualizar PDF`](docs/FINALIZAÇÃO%20LAB%2001.pdf)
 
-![Lab 01](https://github.com/seu-usuario/seu-repo/imagens/lab01.png)
+![Lab 01](imagens/lab01.png)
+
 
 ---
 
