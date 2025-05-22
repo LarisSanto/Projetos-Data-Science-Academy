@@ -76,6 +76,8 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 📄 [`Visualizar PDF`](./LAB%2009%20COMPLETO.pdf)
 
 
+---
+
 
 ## 🧰 Tecnologias Utilizadas
 
@@ -90,7 +92,7 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
-
+✉️ larissa.email@exemplo.com
 
 
 
