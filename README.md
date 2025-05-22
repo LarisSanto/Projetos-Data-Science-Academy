@@ -30,45 +30,48 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 
 ## 🚀 Projetos
 
-### 🔹 Lab 01 - Dashboard de Vendas Globais
-📄 [`Visualizar PDF`](docs/lab_01.pdf)  
-> Análise de vendas por país, categoria, prioridade e segmento.
+## 🚀 Projetos
+
+### 🔹 Laboratório 01 - Dashboard de Vendas Globais  
+📄 [Visualizar PDF](FINALIZAÇÃO%20LAB%2001.pdf)  
+Análise de vendas por país, categoria, prioridade e segmentos.
 
 ---
 
-### 🔹 Lab 02 - Análise de Lucro, Custo e Envio
-📄 [`Visualizar PDF`](docs/lab_02.pdf)  
-> Dashboard de vendas com indicadores por modo de envio, margem de lucro e KPIs.
+### 🔹 Laboratório 02 - Análise de Lucro, Custo e Envio  
+📄 [Visualizar PDF](LAB%2002%20FINALIZADO.pdf)  
+Dashboard de vendas com indicadores de modo de envio, margem de lucro e KPIs.
 
 ---
 
-### 🔹 Mini Lab 03 - Balanço Patrimonial
-📄 [`Visualizar PDF`](docs/mini_lab_03.pdf)  
-> Análise financeira de balanço patrimonial com visual de matriz.
+### 🔹 Mini Laboratório 03 - Balanço Patrimonial  
+📄 [Visualizar PDF](MINI%20LAB%2003%20COMPLETO.pdf)  
+Análise financeira de balanço patrimonial com visual de matriz.
 
 ---
 
-### 🔹 Mini Projeto 02 - Performance de Vendas
-📄 [`Visualizar PDF`](docs/mini_projeto_02.pdf)  
-> Dashboard de vendas por categoria, fabricante, ponto de venda e vendedor, com narrativa inteligente.
+### 🔹 Mini Projeto 02 - Desempenho de Vendas  
+📄 [Visualizar PDF](MINI%20PROJETO%2002%20FINALIZADO.pdf)  
+Dashboard de vendas por categoria, fabricante, ponto de venda e vendedor, com narrativa inteligente.
 
 ---
 
-### 🔹 Mini Projeto 06 - Mercado de Ações
-📄 [`Visualizar PDF`](docs/mini_projeto_06.pdf)  
-> Análise de volume, preço e tendências de ações com storytelling interativo.
+### 🔹 Mini Projeto 06 - Mercado de Ações  
+📄 [Visualizar PDF](MINI%20PROJ%2006%20COMPLETO.pdf)  
+Análise de volume, preço e tendências de ações com storytelling interativo.
 
 ---
 
-### 🔹 Lab 08 - Detecção de Anomalias
-📄 [`Visualizar PDF`](docs/lab_08.pdf)  
-> Detecção de anomalias financeiras com linguagem R e gráficos de distribuição.
+### 🔹 Laboratório 08 - Detecção de Anomalias  
+📄 [Visualizar PDF](LAB%2008%20COMPLETO.pdf)  
+Detecção de anomalias financeiras com linguagem R e gráficos de distribuição.
 
 ---
 
-### 🔹 Lab 09 - Previsão de Produção Industrial
-📄 [`Visualizar PDF`](docs/lab_09.pdf)  
-> Previsão de unidades produzidas ao longo do tempo com IA e análise por faixa etária e turno.
+### 🔹 Laboratório 09 - Previsão de Produção Industrial  
+📄 [Visualizar PDF](LAB%2009%20COMPLETO.pdf)  
+Previsão de unidades produzidas ao longo do tempo com IA e análise por faixa etária e turno.
+
 
 ---
 
