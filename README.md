@@ -1,3 +1,9 @@
+<!-- Capa animada superior -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=header" alt="Capa animada superior" width="1000" />
+</p>
+
+
 <h1 align="center">📊 Projetos Microsoft Power BI para Business Intelligence e Ciência de Dados / Data Science Academy </h1>
 
 <p align="center">
@@ -80,6 +86,13 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
 ✉️ larissa.email@exemplo.com
+
+
+
+<!-- Capa animada inferior -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=footer" alt="Capa animada inferior" width="1000" />
+</p>
 
 ---
 
