@@ -18,13 +18,14 @@
 
 ---
 
-## 👩‍💻 Sobre Mim
+## Sobre Mim
 
-Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui compartilho os principais projetos que desenvolvi durante minha formação em Power BI pela Data Science Academy.
+Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui compartilho os principais projetos que desenvolvi durante minha formação Microsoft Power BI para Business Intelligence e Ciência de Dados pela Data Science Academy.
 
 ---
 
 ## 🚀 Projetos Desenvolvidos
+
 
 ### 🔹 Lab 01 - Dashboard de Vendas Globais
 > Análise de vendas por país, categoria e prioridade.  
