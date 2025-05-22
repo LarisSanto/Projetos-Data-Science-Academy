@@ -1,4 +1,4 @@
-<h1 align="center">📊 Projetos Power BI - Data Science Academy</h1>
+<h1 align="center">📊 Projetos Microsoft Power BI para Business Intelligence e Ciência de Dados / Data Science Academy </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi" />
