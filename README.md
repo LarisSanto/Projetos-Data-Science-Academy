@@ -57,19 +57,19 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 > Dashboard comercial com narrativa inteligente.  
 📄 [`Visualizar PDF`](./MINI%20PROJETO%2002%20FINALIZADO.pdf)
 
-
+---
 
 ### 🔹 Mini Projeto 06 - Mercado de Ações
 > Análise de ações com fechamento, volume e tendências.  
 📄 [`Visualizar PDF`](./MINI%20PROJ%2006%20COMPLETO.pdf)
 
-
+---
 
 ### 🔹 Lab 08 - Detecção de Anomalias com R
 > Uso da linguagem R para encontrar anomalias financeiras.  
 📄 [`Visualizar PDF`](./LAB%2008%20COMPLETO.pdf)
 
-
+---
 
 ### 🔹 Lab 09 - Previsão de Produção Industrial
 > Aplicação de IA para previsão de unidades produzidas.  
