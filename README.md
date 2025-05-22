@@ -30,47 +30,65 @@ Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui 
 
 ## 🚀 Projetos
 
-## 🚀 Projetos
+
 
 ### 🔹 Laboratório 01 - Dashboard de Vendas Globais  
-📄 [Visualizar PDF](FINALIZAÇÃO%20LAB%2001.pdf)  
-Análise de vendas por país, categoria, prioridade e segmentos.
+📄 [`Visualizar PDF`](FINALIZAÇÃO%20LAB%2001.pdf)  
+> Análise de vendas por país, categoria, prioridade e segmento.
 
 ---
 
 ### 🔹 Laboratório 02 - Análise de Lucro, Custo e Envio  
-📄 [Visualizar PDF](LAB%2002%20FINALIZADO.pdf)  
-Dashboard de vendas com indicadores de modo de envio, margem de lucro e KPIs.
+📄 [`Visualizar PDF`](LAB%2002%20FINALIZADO.pdf)  
+> Dashboard com KPIs de envio, custo e margem de lucro por mercado e período.
 
 ---
 
 ### 🔹 Mini Laboratório 03 - Balanço Patrimonial  
-📄 [Visualizar PDF](MINI%20LAB%2003%20COMPLETO.pdf)  
-Análise financeira de balanço patrimonial com visual de matriz.
+📄 [`Visualizar PDF`](MINI%20LAB%2003%20COMPLETO.pdf)  
+> Visualização de balanço patrimonial com dados de ativos, passivos e capital social.
+
+---
+
+### 🔹 Mini Projeto 01 - Dashboard Comercial  
+📄 [`Visualizar PDF`](MINI%20PROJETP%2001%20FINALIZADO.pdf)  
+> Visualização de desempenho por região, vendedor e segmento.
 
 ---
 
 ### 🔹 Mini Projeto 02 - Desempenho de Vendas  
-📄 [Visualizar PDF](MINI%20PROJETO%2002%20FINALIZADO.pdf)  
-Dashboard de vendas por categoria, fabricante, ponto de venda e vendedor, com narrativa inteligente.
+📄 [`Visualizar PDF`](MINI%20PROJETO%2002%20FINALIZADO.pdf)  
+> Análise de vendas por categoria, fabricante, ponto de venda e vendedor.
 
 ---
 
-### 🔹 Mini Projeto 06 - Mercado de Ações  
-📄 [Visualizar PDF](MINI%20PROJ%2006%20COMPLETO.pdf)  
-Análise de volume, preço e tendências de ações com storytelling interativo.
+### 🔹 Mini Projeto 04 - Performance por Produto  
+📄 [`Visualizar PDF`](MINI-PROJETO%2004%20COMPLETO.pdf)  
+> Visual com insights de performance por produto, faixa de vendas e canais.
+
+---
+
+### 🔹 Mini Projeto 05 - Análise de Distribuição  
+📄 [`Visualizar PDF`](MINI%20PROJETO%2005%20COMPLETO.pdf)  
+> Análise de distribuição de produtos e impacto regional.
+
+---
+
+### 🔹 Mini Projeto 06 - Mercado de Ações com Storytelling  
+📄 [`Visualizar PDF`](MINI%20PROJ%2006%20COMPLETO.pdf)  
+> Variação de preços, volume e fechamento mensal de ações de empresas como Tesla, IBM e Microsoft.
 
 ---
 
 ### 🔹 Laboratório 08 - Detecção de Anomalias  
-📄 [Visualizar PDF](LAB%2008%20COMPLETO.pdf)  
-Detecção de anomalias financeiras com linguagem R e gráficos de distribuição.
+📄 [`Visualizar PDF`](LAB%2008%20COMPLETO.pdf)  
+> Identificação de anomalias em transações financeiras com R e Power BI.
 
 ---
 
 ### 🔹 Laboratório 09 - Previsão de Produção Industrial  
-📄 [Visualizar PDF](LAB%2009%20COMPLETO.pdf)  
-Previsão de unidades produzidas ao longo do tempo com IA e análise por faixa etária e turno.
+📄 [`Visualizar PDF`](LAB%2009%20COMPLETO.pdf)  
+> Previsão de produção com base em IA, considerando turnos e faixas etárias.
 
 
 ---
